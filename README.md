@@ -206,4 +206,4 @@ The script supports both full and pruned models.
 ## Report
 
 Full methodology, experiments, and results available here:  
-[Perceptual_Image_denoising.pdf](./Perceptual_Image_denoising.pdf)
+[Perceptual_Image_Denoising.pdf](./Perceptual_Image_Denoising.pdf)
