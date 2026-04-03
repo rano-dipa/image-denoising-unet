@@ -1,0 +1,10 @@
+Device: cuda
+Loading model: checkpoints/pruned.pth
+LPIPS enabled
+Setting up [LPIPS] perceptual loss: trunk [alex], v[0.1], spatial [off]
+Loading model from: /scratch/user/dipanwita22rano/.conda/envs/denoise/lib/python3.10/site-packages/lpips/weights/v0.1/alex.pth
+
+===== FINAL TEST RESULTS =====
+Mean PSNR : 31.45978994804892
+Mean SSIM : 0.9141805
+Mean LPIPS: 0.12946205266052857

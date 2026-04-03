@@ -1,0 +1,112 @@
+
+Epoch 0 using patch size: 96
+EPOCH 0 VAL_PSNR: 31.4279
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 1 using patch size: 96
+EPOCH 1 VAL_PSNR: 33.0073
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 2 using patch size: 192
+EPOCH 2 VAL_PSNR: 33.3538
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 3 using patch size: 128
+EPOCH 3 VAL_PSNR: 34.4297
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 4 using patch size: 192
+EPOCH 4 VAL_PSNR: 34.4947
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 5 using patch size: 128
+EPOCH 5 VAL_PSNR: 35.0144
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 6 using patch size: 64
+EPOCH 6 VAL_PSNR: 35.7551
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 7 using patch size: 128
+EPOCH 7 VAL_PSNR: 35.7641
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 8 using patch size: 128
+EPOCH 8 VAL_PSNR: 36.0312
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 9 using patch size: 96
+EPOCH 9 VAL_PSNR: 36.3631
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 10 using patch size: 192
+EPOCH 10 VAL_PSNR: 36.7035
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 11 using patch size: 192
+EPOCH 11 VAL_PSNR: 36.8227
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 12 using patch size: 128
+EPOCH 12 VAL_PSNR: 36.6971
+
+Epoch 13 using patch size: 192
+EPOCH 13 VAL_PSNR: 36.8057
+
+Epoch 14 using patch size: 96
+EPOCH 14 VAL_PSNR: 37.3238
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 15 using patch size: 96
+EPOCH 15 VAL_PSNR: 37.0582
+
+Epoch 16 using patch size: 192
+EPOCH 16 VAL_PSNR: 36.9982
+
+Epoch 17 using patch size: 128
+EPOCH 17 VAL_PSNR: 37.2212
+
+Epoch 18 using patch size: 128
+EPOCH 18 VAL_PSNR: 37.4420
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 19 using patch size: 192
+EPOCH 19 VAL_PSNR: 37.6701
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 20 using patch size: 192
+EPOCH 20 VAL_PSNR: 37.6420
+
+Epoch 21 using patch size: 128
+EPOCH 21 VAL_PSNR: 37.3042
+
+Epoch 22 using patch size: 192
+EPOCH 22 VAL_PSNR: 37.8293
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 23 using patch size: 192
+EPOCH 23 VAL_PSNR: 37.6929
+
+Epoch 24 using patch size: 64
+EPOCH 24 VAL_PSNR: 37.8986
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 25 using patch size: 64
+EPOCH 25 VAL_PSNR: 37.9260
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 26 using patch size: 64
+EPOCH 26 VAL_PSNR: 37.8937
+
+Epoch 27 using patch size: 96
+EPOCH 27 VAL_PSNR: 38.1224
+Saved best model ? /scratch/user/dipanwita22rano/denoising_project/checkpoints/final_best.pth
+
+Epoch 28 using patch size: 96
+EPOCH 28 VAL_PSNR: 37.9980
+
+Epoch 29 using patch size: 96
+EPOCH 29 VAL_PSNR: 37.1925
+
+Training Done
+Best PSNR: 38.12240300549753

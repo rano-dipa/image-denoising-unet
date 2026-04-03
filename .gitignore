@@ -1,0 +1,19 @@
+# datasets
+data/
+*.zip
+
+# checkpoints
+checkpoints/
+*.pth
+
+# output
+outputs/
+
+# cache
+__pycache__/
+*.pyc
+
+# env
+.conda/
+env/
+.ipynb_checkpoints/

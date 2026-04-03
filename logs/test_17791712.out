@@ -1,0 +1,9 @@
+GPU test
+CUDA: True
+NVIDIA A100-PCIE-40GB
+Setting up [LPIPS] perceptual loss: trunk [alex], v[0.1], spatial [off]
+Loading model from: /scratch/user/dipanwita22rano/.conda/envs/denoise/lib/python3.10/site-packages/lpips/weights/v0.1/alex.pth
+TRAIN SET SIZE (pairs): 192
+DEVICE: cuda
+2026-02-16 15:08:19 EPOCH 0 train_loss=0.1929 val_psnr=20.7697 val_ssim=0.7739 best_val=20.7697
+Training finished. Best val PSNR: 20.76965115174021
