@@ -1,0 +1,3 @@
+This appendix presents qualitative comparisons between the input noisy images and the outputs produced by the proposed U-Net-based denoising model. The results demonstrate subtle yet consistent noise reduction, particularly in low-light and smooth regions, while preserving structural details.
+
+To better visualize the results, we extract moderately sized patches from three regions of the image: center $(600, 300, 1400, 1000)$, left $(300, 200, 1100, 900)$, and right $(900, 300, 1700, 1000)$. These regions capture a mix of smooth areas and edges, enabling clearer observation of noise reduction while maintaining sufficient context.
